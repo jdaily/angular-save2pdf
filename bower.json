@@ -1,0 +1,22 @@
+{
+    "name": "angular-save2pdf",
+    "version": "0.1.0",
+    "description": "jsPDF wrapper for AngularJS to save HTML as a PDF",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jdaily/angular-save2pdf.git"
+    },
+    "dependencies": {
+        "angular": "*"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "components",
+        "lib"
+    ],
+    "main": [
+        "./angular-save2pdf.js"
+    ]
+}
